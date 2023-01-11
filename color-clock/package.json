@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "y",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-hooks-npm-lab"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "cla.d",
+  "license": "SEE LICENSE IN <filename>",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
